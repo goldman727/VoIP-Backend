@@ -1,9 +1,3 @@
-# Ignore everything
-*
-
-# Allow .gitignore
-!.gitignore
-
-# Allow node_modules and its contents
-!node_modules/
-!node_modules/**/*
+# Node.js
+node_modules/
+.env*
